@@ -1,4 +1,4 @@
-# 🔬 AI Research Agent
+# 🔬 AI Research Assistant
 
 > **Turn a research topic into a structured research report — locally.**
 
